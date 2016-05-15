@@ -6,4 +6,4 @@ Template to build apps using Babel and Gulp for es2015
 
 - Bundle js modules using Browserify
 
-
+Built with help of CodeSchool.tv
